@@ -1,0 +1,19 @@
+{
+    "name": "marija/rock-paper-scissors",
+    "require": {
+        "phpunit/phpunit": "^9.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/",
+            "Tests\\": "tests/"
+        }
+    },
+    "authors": [
+        {
+            "name": "marija",
+            "email": "marija.liscova@gmail.com"
+        }
+    ],
+    "description": ""
+}

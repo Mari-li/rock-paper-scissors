@@ -1,0 +1,1 @@
+C:37:"PHPUnit\Runner\DefaultTestResultCache":320:{a:2:{s:7:"defects";a:2:{s:28:"Tests\PlayerTest::testChoice";i:4;s:35:"Tests\GameTest::testComputersChoice";i:3;}s:5:"times";a:4:{s:27:"Tests\ElementTest::testName";d:0.111;s:28:"Tests\PlayerTest::testChoice";d:0.131;s:35:"Tests\GameTest::testComputersChoice";d:0.156;s:35:"Tests\GameTest::testWinCombinations";d:0.141;}}}
